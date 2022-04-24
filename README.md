@@ -39,4 +39,4 @@ The purpose of this analysis was to find a model that can best predict credit ri
 
 
 ## Summary: 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+After carefully looking at the rrsults for each model, I would use the EasyEnsembleClassifier or the random forest classifier. The Easy Ensemnle Classifier has the highest accuracy score for its model. I thinks if will give us the better prediction out all models above becuase easy ensemble uses mutiple algorithms which result into multiple predictions to gives us the best prediction as the final outcome. Both of these model use similar concept in combining smaller model/decision trees to come up with a final outcome.
